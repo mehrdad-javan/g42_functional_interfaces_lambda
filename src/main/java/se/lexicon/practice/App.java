@@ -26,8 +26,10 @@ public class App {
 
 
     //Print out all Products that have price above 100 AND lower than 150
+    // todo: implement it
 
     //Increase the price of all Products that have a stock value of less than 10 AND above 0 by 50%
+    // todo: implement it
 
   }
 
